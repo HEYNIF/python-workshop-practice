@@ -24,3 +24,6 @@ print(list_of_cloud)
 #Itreation of a list
 for cloud in list_of_cloud:
     print(cloud)
+
+for i in range(1,11):  #for range
+    print(i)
